@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon vicent:staff - R /
+chmod vicent:staff - R /
