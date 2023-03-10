@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod uq+x ,o+r heallo
+chmod uq+x,o+r heallo
